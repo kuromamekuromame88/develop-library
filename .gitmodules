@@ -7,3 +7,6 @@
 [submodule "communication/esp-can"]
 	path = communication/esp-can
 	url = https://github.com/Niiroboken/esp-can
+[submodule "controller/PS4-esp32"]
+	path = controller/PS4-esp32
+	url = https://github.com/YuraBogdan/PS4-esp32
