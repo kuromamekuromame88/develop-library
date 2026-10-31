@@ -1,6 +1,3 @@
-[submodule "controller"]
-	path = controller
-	url = https://github.com/YuraBogdan/PS4-esp32
 [submodule "sensor/Encoder"]
 	path = sensor/Encoder
 	url = https://github.com/madhephaestus/ESP32Encoder
