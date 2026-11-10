@@ -7,3 +7,6 @@
 [submodule "controller/PS4-esp32"]
 	path = controller/PS4-esp32
 	url = https://github.com/YuraBogdan/PS4-esp32
+[submodule "actuator/ESP32Servo"]
+	path = actuator/ESP32Servo
+	url = https://github.com/madhephaestus/ESP32Servo
